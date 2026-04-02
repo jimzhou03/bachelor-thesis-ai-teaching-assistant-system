@@ -26,7 +26,7 @@ This thesis focuses on designing and implementing an AI teaching assistant syste
 
 ## Files
 - `bachelor_thesis_draft_zh.pdf`: Current Chinese draft of the thesis
-- `thesis_summary_en.pdf`: English summary of the thesis
+- `thesis_summary.pdf`: English summary of the thesis
 
 ## Related Project
 - Hate Speech Detection Project (GLM-4-9B + LoRA):  
